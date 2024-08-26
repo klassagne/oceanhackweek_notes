@@ -29,4 +29,7 @@
      -  Add New File
      -  type in folder name and then /
    -  Minimize merge conflicts
-    - 
+     - make contributor_folders
+       - have separate folder for each member
+     - DO NOT `git push --force`
+     -  
