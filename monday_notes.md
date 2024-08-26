@@ -33,4 +33,11 @@
      - make contributor_folders
        - have separate folder for each member
      - DO NOT `git push --force`
-     -  
+
+## JupyterHub and Conda
+# Christian Sarason
+- link: https://oceanhackweek.2i2c.cloud/user/klassagne/lab?
+- unix package naming conventions
+- root: `cd /`
+- look at path `printenv PATH`
+- pixi has some really great things to offer with ease of use and reproducability compared to conda/mamba
