@@ -1,4 +1,4 @@
-# oceanhackweek_notes
+# Monday Notes
 ![alt text](https://oceanhackweek.org/_static/logo.png)
 ## Reproducing work and managing projects with Git and GitHub Notes: 
 #### Eli Holmes - NOAA Fisheries
@@ -15,6 +15,7 @@
       - breakdown skills
       - learn easy-ish skills
       - practice before moving on
+  - collaborating with others on a repo during a hackweek
   - first time with github
     - create a blank repo on git
       - go to github repos https://github.com/klassagne?tab=repositories
