@@ -1,7 +1,6 @@
 # oceanhackweek_notes
 ![alt text](https://oceanhackweek.org/_static/logo.png)
-## Monday
-### Reproducing work and managing projects with Git and GitHub Notes: 
+## Reproducing work and managing projects with Git and GitHub Notes: 
 #### Eli Holmes - NOAA Fisheries
 
 - reproducible workflow
@@ -23,5 +22,11 @@
       - Make sure you are the owner
       - Add repo name: Repository name
       - Make sure to click Add a README file
-   - edit file and commit changes
+    - edit file and commit changes
      - click little pen edit button
+    - add new folder
+     -  Add File
+     -  Add New File
+     -  type in folder name and then /
+   -  Minimize merge conflicts
+    - 
