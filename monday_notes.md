@@ -41,3 +41,4 @@
 - root: `cd /`
 - look at path `printenv PATH`
 - pixi has some really great things to offer with ease of use and reproducability compared to conda/mamba
+- link to pixi: https://pixi.sh/latest/
