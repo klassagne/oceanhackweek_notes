@@ -1,5 +1,5 @@
 # oceanhackweek_notes
-
+![alt text](https://oceanhackweek.org/_static/logo.png)
 ## Monday
 ### Reproducing work and managing projects with Git and GitHub Notes: 
 #### Eli Holmes - NOAA Fisheries
